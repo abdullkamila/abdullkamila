@@ -1,6 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=header&textBg=false"/>
-
-<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/kamila-abdullaeva-96821a128/">Kamila Abdullaeva</a> <!-- <img height="40" alt="Kyubey" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>--></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi,+I'm+Kamila+Abdullaeva;I'm+a+Web+Developer">
+  </a>
+</p>
 
 <br /> 
 
