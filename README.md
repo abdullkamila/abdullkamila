@@ -41,17 +41,6 @@
     <img src="https://skillicons.dev/icons?i=gitlab,jest,git,github,vscode,figma"/><br>
 </div>
 <br/>
-
-<hr/>
-
-<h2 align="center"> GitHub Stats </h2>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullkamila)](https://github.com/abdullkamila/github-readme-stats)
-
-  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullkamila&hide_progress=true)
-
-
 <hr/>
 
 <h3 align="center">
