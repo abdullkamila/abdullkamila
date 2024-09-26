@@ -47,11 +47,9 @@
 <h2 align="center"> GitHub Stats </h2>
 
 <div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=j0taylor6&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdullkamilla&theme=highcontrast">
-<img height="158em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abdullkamilla&theme=highcontrast">
-
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j0taylor6&hide_border=true&layout=compact" align="left" />
 </div><br>
 
 <hr/>
