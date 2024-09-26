@@ -45,16 +45,11 @@
 <hr/>
 
 <h2 align="center"> GitHub Stats </h2>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdullkamila)](https://github.com/abdullkamila/github-readme-stats)
 
-<h2 align="center"> My Social Media Accounts</h2>
-<a href="#" target="_blank"> <img alt="facebook" src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" height="58" 
- width="80"   align="left"> </a>
+  
 
-<a href="https://www.linkedin.com/in/anushasyeda012/" target="_blank"> <img alt="linkedin" src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" height="58" width = " 80" align="left"> </a>
-
-<a href="#" target="_blank"> <img alt="insta" src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" height="58" width = " 80" align="left"> </a>
-
-<a href="#" target="_blank"> <img alt="discord" src="https://user-images.githubusercontent.com/74038190/235294015-47144047-25ab-417c-af1b-6746820a20ff.gif" height="58" width = " 80" align="left"> </a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullkamila&hide_progress=true)
 
 
 <hr/>
